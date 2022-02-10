@@ -1,4 +1,4 @@
-# shellhub
+# ScriptHub
 
 These are little script collection 
 
