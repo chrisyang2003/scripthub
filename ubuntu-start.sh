@@ -1,3 +1,6 @@
+# library
+sudo apt-get install libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev
+
 curl net-tools unar vim nodejs npm openssh-server
 pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
 
