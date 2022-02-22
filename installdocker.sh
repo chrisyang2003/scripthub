@@ -1,3 +1,4 @@
+# sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/chrisyang2003/ScriptHub/master/installdocker.sh)"
 # install docker and docker-compose
 
 sudo apt-get update
