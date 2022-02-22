@@ -1,3 +1,9 @@
+#zsh
+sudo apt install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# ZSH_THEME="alanpeabody"
+
+
 # library
 sudo apt-get install libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev
 
