@@ -1,5 +1,7 @@
 
-
+# config
+git config --global user.name "chrisyy"
+git config --global user.email "1017975501@qq.com"
 
 # library
 sudo apt-get install libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev
@@ -7,6 +9,8 @@ sudo apt-get install libssl-dev build-essential automake pkg-config libtool libf
 # tool
 sudo apt-get install curl net-tools unar vim nodejs npm openssh-server
 pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
+
+
 
 
 #nodejs
