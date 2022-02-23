@@ -30,7 +30,7 @@ cd ./bin
 wget https://go.dev/dl/go1.17.7.linux-amd64.tar.gz
 tar zxvf go1.17.7.linux-amd64.tar.gz
 echo "export PATH=\$PATH:~/bin/go/bin" >> ~/.bashrc
-source .bashrc
+source ~/.bashrc
 
 #zsh
 sudo apt install zsh
