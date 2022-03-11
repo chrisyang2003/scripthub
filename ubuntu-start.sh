@@ -1,4 +1,7 @@
 
+#public key
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9BtMANQcFY4L2Im8aUuEQNDQvGFa53T7IcJp8aX1Ewhg2SQkeICDiDn9GqNmPItxPMQOV+slQf9PRcmjqHhCB2wLLz5n2DoRi0G+SfHd9dj57OjMaTa0slSE/6m8uxM7a/4357v9XZchYJqQGTRyQ6AkdlFkJEmQU6Eef1+dCrmuOwzhbP2xbY0u68cToe00v5os1liyfJwe87KUlVe3bZdrZ5Ds/s2oDWhvpu3DMSGxmIO2Jc315L9BtiWelnLt30FsojDa3iUxwepChGttIcwjMf78Wv6qOAq//bZuzXQsYrEfNKhcdUpHWUw5WTPTxGSp6rYa9UbyEKAiFPCmyMSaVvipZ+EYn9yVC+OSszkDjKNn7FfHlFJkCHNkzTZ3JBTxJZYCCfqFMAsv+kz+o9QXwJ0VJBu/UB3Ax1dQr4o7t6YnPCtlc9s5Js1nm/ZNjwZQpaoojlKP+UXX7KHY5d3ngcnPjA8ZO+w4qzH4APoD1NwZXvsTt+j1tY3EctFU=
+
 # config
 git config --global user.name "chrisyy"
 git config --global user.email "1017975501@qq.com"
@@ -33,6 +36,6 @@ echo "export PATH=\$PATH:~/bin/go/bin" >> ~/.bashrc
 source ~/.bashrc
 
 #zsh
-sudo apt install zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# sudo apt install zsh
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 # ZSH_THEME="alanpeabody"
