@@ -8,7 +8,7 @@ git config --global user.name "chrisyy"
 git config --global user.email "1017975501@qq.com"
 
 # library
-sudo apt-get install libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev
+sudo apt-get install libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev socat
 
 # tool
 sudo apt-get install curl net-tools unar vim nodejs npm openssh-server
