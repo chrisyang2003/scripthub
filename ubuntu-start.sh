@@ -12,7 +12,11 @@ sudo apt-get install libssl-dev build-essential automake pkg-config libtool libf
 
 # tool
 sudo apt-get install curl net-tools unar vim nodejs npm openssh-server
+
+# 阿里云
 pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
+# 腾讯云
+# pip config set global.index-url https://mirrors.cloud.tencent.com/pypi/simple
 
 
 
