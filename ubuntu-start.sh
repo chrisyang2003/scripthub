@@ -7,11 +7,9 @@
 git config --global user.name "chrisyy"
 git config --global user.email "1017975501@qq.com"
 
-# library
-sudo apt-get install libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev socat
-
-# tool
-sudo apt-get install curl net-tools unar vim nodejs npm openssh-server
+# tools
+sudo apt-get install python3-pip git curl net-tools unar vim npm openssh-server \
+python2 libssl-dev build-essential automake pkg-config libtool libffi-dev libgmp-dev socat -y
 
 # 阿里云
 pip config set global.index-url https://mirrors.aliyun.com/pypi/simple/
